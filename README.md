@@ -6,13 +6,13 @@ STEPS:
  * Encapsulation
  * 
  * Task 1:
- * Create a file Main.java and RWOnly.java in same package
+ * Create a file com.driver.Main.java and RWOnly.java in same package
  * 
  * Task 2:
  * create a class named RWOnly in RWOnly.java, with a private member variable name
  * 
  * Task 3:
- * create main function in Main.java, and crete an obj of class RWOnly in this file
+ * create main function in com.driver.Main.java, and crete an obj of class RWOnly in this file
  * 
  * Task 4:
  * try, setting a value to name, by directly accessing it using obj and also try printing it
@@ -23,7 +23,7 @@ STEPS:
  * try implementing getter and setters member function in class RWOnly 
  * 
  * Task 6:
- * Now, try setting a value to name in Main function using setter function and access it's value using getter function
+ * Now, try setting a value to name in com.driver.Main function using setter function and access it's value using getter function
  * 
  * Learnings: 
  * Encapsulation is used for hidding data,
